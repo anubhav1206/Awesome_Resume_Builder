@@ -2,6 +2,9 @@
 
 # About the Project
 
+<img src="https://user-images.githubusercontent.com/58718316/236371697-f89203d0-88e3-4918-8ac2-bd9e0e075007.gif" length=500 width=500>
+
+
 # Project Goals
 
 # Tech stack used in this project
