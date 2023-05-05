@@ -2,12 +2,31 @@
 
 # About the Project
 
+<b>A resume is a formal document that a job applicant creates to itemize their qualifications for a position. A resume is usually accompanied by a customized cover letter in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.</b>
+
 <img src="https://user-images.githubusercontent.com/58718316/236371697-f89203d0-88e3-4918-8ac2-bd9e0e075007.gif" length=500 width=500>
 
 
-# Project Goals
+<b> Resume is the most impotant thing while you appling your job, Internships or Extranships. People use different templates for appliing different tech stacks but still confused which platform, design & font, tempalte best suit to their resume. So introducuing my project Awesome resume builder. </b>
+
+
+# Project Features
+
+- <b> Easy to cutomize fonts and colors </b>
+
+- <b> Drag and drop sections </b>
+
+- <b> Download PDF after edting your resume </b>
+
+- <b> Free & Easy to use </b>
+
+- <b> Import json formats </b>
 
 # Tech stack used in this project
+
+<b> `html` </b>
+<b> `css` </b>
+<b> `javascript` </b>
 
 # Project licence 
 
@@ -24,6 +43,9 @@
 
 
 3. Make changes
+
+  - Recommened ti use [VS CODE](https://code.visualstudio.com/download) editor for make changes locally in your system.
+
 4. Create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches#working-with-branches)
 5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
