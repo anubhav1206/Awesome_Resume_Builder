@@ -72,7 +72,7 @@ agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome
 
 
 
- <h1 align=center> Project Maintainer</h1>
+ <h1 align=center> Project Admin</h1>
 <p align="center">
 <table align="center">
   <tbody><tr>
