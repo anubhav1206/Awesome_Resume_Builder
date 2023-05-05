@@ -1,6 +1,6 @@
-# Awesomw_Resume_Builder
+# Awesomw_Resume_Builder 📜📑
 
-# About the Project
+# About the Project 👩‍💻👨‍💻
 
 <b>A resume is a formal document that a job applicant creates to itemize their qualifications for a position. A resume is usually accompanied by a customized cover letter in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.</b>
 
@@ -10,7 +10,7 @@
 <b> Resume is the most impotant thing while you appling your job, Internships or Extranships. People use different templates for appliing different tech stacks but still confused which platform, design & font, tempalte best suit to their resume. So introducuing my project Awesome resume builder. </b>
 
 
-# Project Features
+# Project Features 🎯
 
 - <b> Easy to cutomize fonts and colors </b>
 
@@ -28,11 +28,11 @@
 <b> `css` </b>
 <b> `javascript` </b>
 
-# Project licence 
+# Project licence ⚖
 
  This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/LICENSE)
 
-# Contributing
+# How to Contribute 🤷‍♀️🤷‍♂️
 
 ## Steps
 
@@ -64,7 +64,7 @@ Give it a 🌟 if you ❤ this project.
 ![erer](https://user-images.githubusercontent.com/58718316/236212332-5a52045c-09a8-418d-87e3-eff7492236d0.PNG)
 
 
-# Code Of Conduct
+# Code Of Conduct 📜
 
 We love pull requests from everyone. By participating in this project, you
 agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Code%20of%20Conduct.md).
