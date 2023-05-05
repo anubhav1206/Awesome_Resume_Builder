@@ -2,21 +2,21 @@
 
 # About the Project 👩‍💻👨‍💻
 
-<b>A resume is a formal document that a job applicant creates to itemize their qualifications for a position. A resume is usually accompanied by a customized cover letter in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.</b>
+<b>A resume is used by job applicants across the globe to to itemize their background, skills, qualifications and accomplishments. A resume is also usually accompanied by a customized cover letter, which is used to express interest in a specific position at a company while drawing attention to the qualifications that are most relevant to the role on the resume.</b>
 
 <img src="https://user-images.githubusercontent.com/58718316/236371697-f89203d0-88e3-4918-8ac2-bd9e0e075007.gif" length=500 width=500>
 
 
-<b> Resume is the most impotant thing while you appling your job, Internships or Extranships. People use different templates for appliing different tech stacks but still confused which platform, design & font, tempalte best suit to their resume. So introducuing my project Awesome resume builder. </b>
+<b>A well written resume is one of the most important things for applying to new jobs, internships or externships. People create and design various different projects for showcasing their tech stacks but many would be lost if asked what kind of platform, design or font is best suited to make their resume stand out to potential employers. To help with this problem, I built my current project: Awesome Resume Builder. By entering their relevant information on the screen, users will be able to build a modern resume in seconds! </b>
 
 
 # Project Features 🎯
 
-- <b> Easy to cutomize fonts and colors </b>
+- <b> Easy to customize fonts and colors </b>
 
 - <b> Drag and drop sections </b>
 
-- <b> Download PDF after edting your resume </b>
+- <b> Download PDF after editing your resume </b>
 
 - <b> Free & Easy to use </b>
 
@@ -24,11 +24,11 @@
 
 # Tech stack used in this project
 
-<b> `html` </b>
-<b> `css` </b>
-<b> `javascript` </b>
+<b> `Html` </b>
+<b> `Css` </b>
+<b> `JavaScript` </b>
 
-# Project licence ⚖
+# Project Licence ⚖
 
  This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/LICENSE)
 
@@ -44,11 +44,14 @@
 
 3. Make changes
 
-  - Recommened ti use [VS CODE](https://code.visualstudio.com/download) editor for make changes locally in your system.
+  - It is recommended to use [VS CODE](https://code.visualstudio.com/download) editor to make changes locally on your system
 
 4. Create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches#working-with-branches)
-5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
+
+5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what changes you have made)
+
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
+
 7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 
@@ -61,18 +64,19 @@ For more info check out [Contributng guide map](https://github.com/ADITYADAS1999
 
 Give it a 🌟 if you ❤ this project.
 
-![erer](https://user-images.githubusercontent.com/58718316/236212332-5a52045c-09a8-418d-87e3-eff7492236d0.PNG)
+![star-project-image](https://user-images.githubusercontent.com/58718316/236212332-5a52045c-09a8-418d-87e3-eff7492236d0.PNG)
 
 
 # Code Of Conduct 📜
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Code%20of%20Conduct.md).
+We love pull requests from anyone, from anywhere!
+
+By participating in this project, you agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Code%20of%20Conduct.md).
 
 
 
 
- <h1 align=center> Project Admin</h1>
+<h1 align=center> Project Admin</h1>
 <p align="center">
 <table align="center">
   <tbody><tr>
