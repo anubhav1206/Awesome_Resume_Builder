@@ -90,6 +90,6 @@ By participating in this project, you agree to abide by the [Code Of Conduct](ht
 <p align="center">
   
 <a href="https://github.com/ADITYADAS1999/Awesome_Resume_Builder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Awesome_Resume_Builder" />
+  <img src="https://contrib.rocks/image?repo=ADITYADAS1999/Awesome_Resume_Builder" />
 </a>
 </p>
