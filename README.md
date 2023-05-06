@@ -2,11 +2,6 @@
 
 # About the Project 👩‍💻👨‍💻
 
-<b>A resume is a formal document that a job applicant creates to list their qualifications for a position. A resume is usually accompanied by a customized cover letter in which the applicant expresses an interest in a specific job or company and draws attention to the most relevant specifics on the resume.</b>
-
-<img src="https://user-images.githubusercontent.com/58718316/236371697-f89203d0-88e3-4918-8ac2-bd9e0e075007.gif" length=500 width=500>
-
-<b> Resume is the most important thing while applying for jobs, Internships or Externships. People use different templates for different tech stacks but are still confused about which platform, design & font, template best suits their resume. So, introducing my project Awesome resume builder which aims to solve such problems.</b>
 
 # Project Features 🎯
 
@@ -22,11 +17,11 @@
 
 # Tech stack used in this project
 
-<b> `html` </b>
-<b> `css` </b>
-<b> `javascript` </b>
+<b> `Html` </b>
+<b> `Css` </b>
+<b> `JavaScript` </b>
 
-# Project licence ⚖
+# Project Licence ⚖
 
 This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/LICENSE)
 
@@ -40,11 +35,13 @@ This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_
 
 3. Make changes
 
-- Recommended to use [VS CODE](https://code.visualstudio.com/download) editor for making changes locally in your system.
 
 4. Create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches#working-with-branches)
-5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
+
+5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what changes you have made)
+
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
+
 7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 For more info check out [Contributing guide map](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Contribution.md)
@@ -55,14 +52,15 @@ For more info check out [Contributing guide map](https://github.com/ADITYADAS199
 
 Give it a 🌟 if you ❤ this project.
 
-![erer](https://user-images.githubusercontent.com/58718316/236212332-5a52045c-09a8-418d-87e3-eff7492236d0.PNG)
+![star-project-image](https://user-images.githubusercontent.com/58718316/236212332-5a52045c-09a8-418d-87e3-eff7492236d0.PNG)
 
 # Code Of Conduct 📜
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Code%20of%20Conduct.md).
+We love pull requests from anyone, from anywhere!
 
- <h1 align=center> Project Admin</h1>
+By participating in this project, you agree to abide by the [Code Of Conduct](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/Code%20of%20Conduct.md).
+
+
 <p align="center">
 <table align="center">
   <tbody><tr>
