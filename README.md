@@ -1,4 +1,4 @@
-# Awesomw_Resume_Builder 📜📑
+# Awesome_Resume_Builder 📜📑
 
 # About the Project 👩‍💻👨‍💻
 
