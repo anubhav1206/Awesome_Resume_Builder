@@ -2,7 +2,7 @@
 
 # About the Project 👩‍💻👨‍💻
 
-<b>A resume is used by job applicants across the globe to to itemize their background, skills, qualifications and accomplishments. A resume is also usually accompanied by a customized cover letter, which is used to express interest in a specific position at a company while drawing attention to the qualifications that are most relevant to the role on the resume.</b>
+<b>A resume is used by job applicants across the globe to to list their background, skills, qualifications and accomplishments. A resume is also usually accompanied by a customized cover letter, which is used to express interest in a specific position at a company while drawing attention to the qualifications that are most relevant to the role on the resume.</b>
 
 <img src="https://user-images.githubusercontent.com/58718316/236371697-f89203d0-88e3-4918-8ac2-bd9e0e075007.gif" length=500 width=500>
 
@@ -30,7 +30,7 @@
 
 # Project Licence ⚖
 
- This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/LICENSE)
+This project follows the [MIT license](https://github.com/ADITYADAS1999/Awesome_Resume_Builder/blob/main/LICENSE)
 
 # How to Contribute 🤷‍♀️🤷‍♂️
 
