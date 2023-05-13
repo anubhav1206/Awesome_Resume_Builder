@@ -29,8 +29,8 @@ flowchart LR
 
 3. Edit:
 
-- On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
-- After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
+- If you want to change a file just click on the pencil icon on top right of the file name, to edit the file and add necessary changes.
+- After editing the necessary changes on the files, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request:
 
