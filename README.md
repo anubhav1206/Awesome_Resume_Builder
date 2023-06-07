@@ -12,21 +12,21 @@
 
 # Project Features 🎯
 
-- <b> Easy to customize fonts and colors </b>
+Easy Customization: Users can easily customize the fonts and colors of their resumes to suit their preferences and make them visually appealing.
 
-- <b> Drag and drop sections </b>
+Drag and Drop Sections: The application allows users to rearrange the sections of their resumes by simply dragging and dropping them. This feature enables users to organize their information in the most effective way.
 
-- <b> Download PDF after editing your resume </b>
+Download PDF: After editing their resumes, users have the option to download them in PDF format. This feature ensures that the resumes can be easily shared with potential employers or saved for future reference.
 
-- <b> Free & Easy to use </b>
+Free & Easy to Use: The Awesome Resume Builder is completely free to use, making it accessible to anyone who needs to create a resume. The user-friendly interface and intuitive design make it easy for users to navigate and build their resumes quickly.
 
-- <b> Import json formats </b>
+Import JSON Formats: The application provides the option to import resume data in JSON format. This feature allows users to save time by importing their existing resume information instead of entering it manually.
 
-# Tech stack used in this project
+# The project utilizes the following tech stack:
 
-<b> `Html` </b>
-<b> `Css` </b>
-<b> `JavaScript` </b>
+The structure and layout of the web application are built using HTML.
+CSS is used to style and customize the appearance of the resume builder interface.
+The application's interactive features, such as drag and drop functionality and data manipulation, are implemented using JavaScript.
 
 # Project Licence ⚖
 
